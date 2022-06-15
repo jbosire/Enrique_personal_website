@@ -1,0 +1,53 @@
+
+header{
+    
+    padding: 0px; 
+    margin: 0px;
+    
+   
+}
+
+body{
+    background-color: #7e8b55;
+    
+}
+
+img{
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+    color: azure;
+    font-style: italic;
+    font-size: 70px;
+    
+}
+h2{
+    text-align: center;
+    font-style: italic;
+    
+}
+
+h3{
+    font-style: italic;
+    text-align: center;
+}
+
+h4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2cm;
+}
+
+.project{
+    background-color: aliceblue;
+}
+
+
+
+.intro{
+    background-color: #7e8b55;
+}
